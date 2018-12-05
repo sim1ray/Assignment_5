@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS 300. Assignment2.
+ * Simone Ray. Assignment5.
  *
  * Header file implements a generic Hash Table of size 1000.
  * Seperate chaining implements Linked List data structure.  
