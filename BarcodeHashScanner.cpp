@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS 300. Assignment5.
+ * Simone Ray. Assignment5.
  * Builds hash table of size 1000, where UPC keys and values from a given file are stored. 
  * Collisions are resolved through separate chaining. Chains implement linked list data structure. 
  */

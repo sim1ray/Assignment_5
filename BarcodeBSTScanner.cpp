@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS 300. Assignment5.
+ * Simone Ray. Assignment5.
  * Implements method that builds binary search tree of UPC objects, from given file. 
  * Implements method that searches BST for given object containing only UPC key and returns object with both key and item name.
  */

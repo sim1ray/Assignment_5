@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS300. Assignment4.
+ * Simone Ray. Assignment5.
  * Binary Search Tree interface. Implements insertion, deletion, search and print methods. 
  *
  */

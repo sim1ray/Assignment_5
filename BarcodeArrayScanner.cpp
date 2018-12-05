@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS 300. Assignment4.
+ * Simone Ray. Assignment5.
  * Implements method to build array of UPC objects, from given file. File must be in CSV format (UPC, name of item).
  * Implements method to search array for given UPC object containing only the key (UPC) so as to find name of item associated with it. 
  */
