@@ -2,8 +2,8 @@
  * Simone Ray. CS 300. Assignment2.
  *
  * Header file implements a generic Hash Table of size 1000.
- * Seperate chaining implements Linked List data structure.   
- *
+ * Seperate chaining implements Linked List data structure.  
+ * T must be an implementation of Hashable ADT, as it needs to provide a hash function. 
  */
 
 
