@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS 300. Assignment5.
+ * Simone Ray. Assignment5.
  * UPC class objects contain UPC code and item name. This class implements getters and setters. 
  */
 

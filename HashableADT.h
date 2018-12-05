@@ -1,6 +1,6 @@
 
 /*
- * Simone Ray. CS 300. Assignment3.
+ * Simone Ray. Assignment5.
  * Abstract template class for Hashing. 
  */
 

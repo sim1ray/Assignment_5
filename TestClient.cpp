@@ -1,5 +1,5 @@
 /*
- * Simone Ray. CS 300. Assignment4.
+ * Simone Ray. Assignment5.
  * Client test program tests efficiency of search operations with three different data structures: BST, array, and hash table. 
  */
 
