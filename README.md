@@ -1,4 +1,4 @@
-# Assignment_5
+# Barcode Scanner
 
 This program allows the user to quickly look up items by their UPC code. 
 
